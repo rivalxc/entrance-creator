@@ -22,7 +22,7 @@ CMD:createentrance(playerid, params[])
     GetPlayerPos(playerid, p_entrance[0], p_entrance[1], p_entrance[2]);
     format(entrance_export, sizeof entrance_export, "(%s) %s: CreateDynamicPickup(19198, 6, %0.f, %0.f, %0.f, 0, 0);\r\n", pname, entrance_name, p_entrance[0], p_entrance[1], p_entrance[2]);
     
-    SendClientMessage(playerid, 0xAFAFAFAF, "[ENTRANCES] {E0E0E0}Use {40f753}/tpint [interior id]{E0E0E0}, or use SA-styled yellow arrow to enter interior!");
+    SendClientMessage(playerid, 0xAFAFAFAF, "[ENTRANCES] {E0E0E0}Use SA-styled yellow arrow to enter interior!");
     SendClientMessage(playerid, 0xAFAFAFAF, "[ENTRANCES] {E0E0E0}If you are in interior you want to create entrance for type {40f753}/createexit");
     return 1;
 }
