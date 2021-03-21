@@ -15,9 +15,9 @@ Creator uses ```file.inc``` for creating files with data of entrances/exits     
 
 
 ## Usage
-To use script, log as RCON admins, and use following commands:
-- /createentrance
-- /createexit
+To use script, log as RCON admin, and use following commands:
+- /createentrance, to create entrance,
+- /createexit, to create exit from building
 
 Be sure to have ```dntmv.cr``` file in ```scriptfiles/entrances```
 
