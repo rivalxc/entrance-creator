@@ -2,11 +2,11 @@
 
 -------------------
 
-[improved z-cmd repository](https://github.com/YashasSamaga/I-ZCMD)
-[z-cmd repository](https://github.com/Southclaws/zcmd)
-[streamer repository](https://github.com/samp-incognito/samp-streamer-plugin)
-[crashdetect repository link](https://github.com/Zeex/samp-plugin-crashdetect)
-[sscanf repository](https://github.com/maddinat0r/sscanf)
+[improved z-cmd repository](https://github.com/YashasSamaga/I-ZCMD)&nbsp;
+[z-cmd repository](https://github.com/Southclaws/zcmd)&nbsp;
+[streamer repository](https://github.com/samp-incognito/samp-streamer-plugin)&nbsp;
+[crashdetect repository link](https://github.com/Zeex/samp-plugin-crashdetect)&nbsp;
+[sscanf repository](https://github.com/maddinat0r/sscanf)&nbsp;
 
 
 ## Notes
