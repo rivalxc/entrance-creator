@@ -10,16 +10,16 @@
 
 
 ## Notes
-###### If you want, you can use default Z-CMD include. It's fully compatible.
-###### Creator uses ```file.inc``` for creating files with data of entrances/exits          after creating, also it uses some plugins (crashdetect, streamer, sscanf)
+If you want, you can use default Z-CMD include. It's fully compatible.
+Creator uses ```file.inc``` for creating files with data of entrances/exits          after creating, also it uses some plugins (crashdetect, streamer, sscanf)
 
 
 ## Usage
-###### To use script, log as RCON admins, and use following commands:
+To use script, log as RCON admins, and use following commands:
 - /createentrance
 - /createexit
 
-###### Be sure to have ```dntmv.cr``` file in ```scriptfiles/entrances```
+Be sure to have ```dntmv.cr``` file in ```scriptfiles/entrances```
 
 
 ## Thanks to:
